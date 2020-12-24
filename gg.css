@@ -1,0 +1,121 @@
+h1, h2{
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+}
+*{
+    font-family: 'Bad Script', cursive;
+}
+h3{
+    font-family: 'Pattaya', sans-serif;
+}
+table{
+    border: 1px solid black;
+}
+th, td{
+    border: 1px solid black;
+}
+
+.txt{
+  border: 2px solid black;
+  background-color: gray;
+
+}
+
+
+.sp{
+  border: 2px solid black;
+  background-color: red;
+}
+
+.tb{
+
+    border: 2px solid black;
+  background-color: pink;
+}
+
+.zb{
+
+    border: 2px solid black;
+  background-color: green
+
+
+}
+.hol1{
+   border: 2px solid black;
+   width: 200px;
+   text-align: center;
+   background-color: magenta;
+   color: green;
+   font-family:  'JetBrains Mono', monospace;
+   padding: 10px;
+   position: relative;
+   margin-right: auto;
+    margin-left: left;
+    margin-top: auto;
+}
+
+.hol2{
+   border: 2px solid black;
+   width: 200px;
+   text-align: center;
+   background-color: orange;
+   color: yellow;
+   font-family:  'JetBrains Mono', monospace;
+   position: relative;
+   padding: 10px;
+   position: relative;
+   margin-right: auto;
+    margin-left: left;
+    margin-top: auto;
+   
+}
+
+.hol3{
+   border: 2px solid black;
+   width: 200px;
+   text-align: center;
+   background-color: yellow;
+   color: red;
+   font-family:  'JetBrains Mono', monospace;
+   padding: 10px;
+   position: relative;
+   margin-right: auto;
+    margin-left: left;
+    margin-top: auto;
+}
+.hol4{
+   border: 2px solid black;
+   width: 200px;
+   text-align: center;
+   background-color: green;
+   color: blue; 
+   font-family:  'JetBrains Mono', monospace;
+   padding: 10px;
+   position: relative;
+   margin-right: auto;
+    margin-left: left;
+    margin-top: auto;
+}
+
+
+.cl1{
+color: white;
+
+}
+
+
+.cl2{
+color: black;
+
+}
+
+
+.cl3{
+color: red;
+
+}
+
+.zg{
+font-family:  'JetBrains Mono', monospace;
+
+}
